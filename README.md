@@ -32,3 +32,6 @@ das2002arijit@gmail.com
 
 
 ## Github stats 
+![galaxyscoder's Stats](https://github-readme-stats.vercel.app/api?username=galaxyscoder&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![galaxyscoder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=galaxyscoder&theme=tokyonight&hide_border=false)
+![galaxyscoder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyscoder&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
